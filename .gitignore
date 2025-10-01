@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+
+venv/
+.idea/
+*.DS_Store
+__pycache__/
+*.py[cod]
+
+main_folder/DataUP/
+
+main_folder/Bmstu/allName.csv
+main_folder/Bmstu/allName.xlsx
+main_folder/Bmstu/dagBmstu.csv
+main_folder/clearData/DagReady.csv
+
+main_folder/data/DagestanNames.csv
+main_folder/data/DagReady.csv
+main_folder/TestData/filtered_data1.csv
+main_folder/TestData/filtered_data1.xlsx
+
+#>100
+main_folder/data/RuReady.csv
+main_folder/data/RussianNames.csv
+main_folder/clearData/RuReady.csv
+
